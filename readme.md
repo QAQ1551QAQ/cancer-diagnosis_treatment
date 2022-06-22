@@ -5,7 +5,8 @@
 #### 文件
 .
 ├── code                         
-│   ├── dl_diagnosis_predict.py -- MLP-focalLoss模型，癌症诊断预测代码\n
+│   ├── dl_diagnosis_predict.py -- MLP-focalLoss模型，癌症诊断预测代码
+
 │   ├── dl_focalLoss.py         -- 使用focalLoss 的MLP癌症诊断模型训练代码
 │   ├── dl.py                   -- 使用crossentropy 的MLP癌症诊断模型训练代码
 │   ├── dl_treatment_predict.py -- MLP模型，癌症治疗预测代码
